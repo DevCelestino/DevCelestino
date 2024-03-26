@@ -11,30 +11,25 @@
 
 ### About Me
 
-- 🔭 I’m currently working on [Snippety] and [xcodebuild.nvim]
-- 🤓 I've recently learned Lua and how to publish and manage open-source projects
-- 🔥 I’m trying to figure out how to extend Neovim skills to maximum
-- 🚀 I decided to build my own Xcode in Neovim ecosystem: [xcodebuild.nvim]
+- 🤓 I've recently learned Cypress and I'm trying to apply this knowledge in a new project to challenge myself
+- 🔥 I’m trying to figure out how to extend my React and Node.js skills to maximum
+- 🚀 I decided to build my own test automation builder interface using React, Node.js and Cypress: [GVtesting](https://github.com/DevCelestino/GVtesting)
 
 ### Most Important Projects
 - 👨‍💻 [Snippety] - productivity application for iOS and macOS to manage snippets
 - 🏭 [Smog Poland] - air pollution tracking application for iOS and Android
 - 🛠️ [xcodebuild.nvim] - open source Neovim plugin to develop iOS and macOS applications
-- 📖 [wojciechkulik.pl] - personal blog
+- 📖 [gabrielcelestino.com] - personal blog
 
 ## What I'm Doing
 
-- 🔭 Working on ChatCool (Bot)
-- 🌱 Learning Node.js & more
-- 📫 How to contact me: https://scratch.mit.edu/users/Thinkright20man/, thinkright20 (Discord), 
-
-Support ChatCool on KoFi:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
+- 🔭 Working on [GVtesting](https://github.com/DevCelestino/GVtesting)
+- 🌱 Learning more about Web Development and DevOps
+- 📫 How to contact me: gabriel@diascelestino.com
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,express,js,ts,cs,cypress,gherkin,selenium,visualstudio,vscode,github,git,azure"> </a> </p>
+<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,js,ts,cs,html,css,cypress,gherkin,selenium,visualstudio,vscode,github,git,azure"> </a> </p>
 
 ## My Stats:
 
