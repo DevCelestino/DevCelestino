@@ -40,14 +40,8 @@
 
 ## My Stats:
   
-<div>
-  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCelestino&theme=ayu_mirage" /></a>
-  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevCelestino&theme=ayu_mirage" /></a>
-</div>
+<div><a href="#"><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCelestino&theme=ayu_mirage" /></a><a href="#"><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevCelestino&theme=ayu_mirage" /></a></div>
 <a href="#"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcelestino&theme=ayu_mirage" /></a>
-<div>
-  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCelestino&theme=ayu_mirage" /></a>
-  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevCelestino&theme=ayu_mirage&utcOffset=-3" /></a>
-</div>
+<div><a href="#"><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCelestino&theme=ayu_mirage" /></a><a href="#"><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevCelestino&theme=ayu_mirage&utcOffset=-3" /></a></div>
 
 ###### *data only from public repos*
