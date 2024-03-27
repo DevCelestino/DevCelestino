@@ -11,7 +11,7 @@
 
 <p align="center"><img src="waves.svg" alt="Waves" /></p>
 
-## About Me  <a href="#"><img width="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
+## About Me  <a href="#"><img width="30px" src="https://raw.githubusercontent.com/DevCelestino/DevCelestino/main/animated.svg"></a>
 
 - 🤓 I've recently learned Cypress and I'm trying to apply this knowledge in a new project to challenge myself
 - 🔥 I’m trying to figure out how to extend my React and Node.js skills to maximum
