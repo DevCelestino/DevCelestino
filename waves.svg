@@ -14,19 +14,15 @@ svg {
   animation-iteration-count:infinite;
 }
 
-.wave:hover {
-  fill: #fff;
-}
-
 #wave2 {
   animation-duration:6s;
   animation-direction: reverse;
-  fill: #339933;
+  fill: #61DAFB;
 }
 
 #wave3 {
   animation-duration: 3s;
-  fill: #69D3A7;
+  fill: #339933;
   opacity:.6;
 }
 
