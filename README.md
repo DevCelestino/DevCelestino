@@ -34,7 +34,7 @@
 
 ## Frameworks
 
-<p align="left"><a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind,materialui,nodejs,nextjs,express,prisma,cypress,selenium,jest"></a></p>
+<p align="left"><a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind,materialui,nodejs,nextjs,express,prisma,jest,cypress,selenium"></a></p>
 
 ## Tools
 
