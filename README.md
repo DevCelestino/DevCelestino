@@ -1,4 +1,4 @@
-<img src="./business-card.gif">
+<a href="#"><img src="./business-card.gif"></a>
 
 <div align="center">
   <a href="https://react.dev"><img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react&logoColor=61DAFB" /></a>
@@ -9,7 +9,7 @@
   <a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/-Azure%20DevOps-05122A?style=for-the-badge&color=282a36&logo=azuredevops&logoColor=0078D7" /></a>
 </div>
 
-## About Me <img width="40px" src="animated.svg">
+## About Me <a href="#"><img width="40px" src="animated.svg"></a>
 
 - 🤓 I've recently learned Cypress and I'm trying to apply this knowledge in a new project to challenge myself
 - 🔥 I’m trying to figure out how to extend my React and Node.js skills to maximum
@@ -28,15 +28,15 @@
 
 ## Languages
 
-<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,gherkin"> </a> </p>
+<p align="left"><a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,gherkin"></a></p>
 
 ## Frameworks
 
-<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=react,tailwind,materialui,nodejs,nextjs,express,prisma,cypress,selenium,jest"> </a> </p>
+<p align="left"><a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind,materialui,nodejs,nextjs,express,prisma,cypress,selenium,jest"></a></p>
 
 ## Tools
 
-<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,git,github,azure,figma,postman,npm,unity"> </a> </p>
+<p align="left"><a href="#"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,git,github,azure,figma,postman,npm,unity"></a></p>
 
 ## My Stats:
   
