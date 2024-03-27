@@ -1,4 +1,4 @@
-<img src="./Personal Card.gif">
+<img src="./business-card.gif">
 
 <div align="center">
   <a href="https://react.dev"><img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react&logoColor=61DAFB" /></a>
