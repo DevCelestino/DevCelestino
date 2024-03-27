@@ -1,13 +1,11 @@
 ## Introduction
 
-<a href="https://www.apple.com/macos/sonoma/"><img src="https://img.shields.io/badge/-macOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" /></a>
-<a href="https://arc.net"><img src="https://img.shields.io/badge/-arc-05122A?style=for-the-badge&color=282a36&logo=arc&logoColor=FF6378" /></a>
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" /></a>
-<a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/-tmux-05122A?style=for-the-badge&color=282a36&logo=tmux&logoColor=1BB91F" /></a>
-<a href="https://iterm2.com"><img src="https://img.shields.io/badge/-iTerm2-05122A?style=for-the-badge&color=282a36&logo=iTerm2&logoColor=4b9e4b" /></a>
-<a href="https://www.swift.org"><img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=F05138" /></a>
-<a href="https://www.youtube.com/watch?v=jUuqBZwwkQw"><img src="https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=282a36&logo=lua&logoColor=0062cc" /></a>
-<a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=282a36&logo=.NET&logoColor=0067C5" /></a>
+<a href="https://react.dev"><img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react&logoColor=61DAFB" /></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=282a36&logo=nodedotjs&logoColor=339933" /></a>
+<a href="https://www.cypress.io"><img src="https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&color=282a36&logo=cypress&logoColor=69D3A7" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&color=282a36&logo=csharp&logoColor=512BD4" /></a>
+<a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&color=282a36&logo=selenium&logoColor=43B02A" /></a>
+<a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/-Azure%20DevOps-05122A?style=for-the-badge&color=282a36&logo=azuredevops&logoColor=0078D7" /></a>
 
 ### About Me
 
@@ -16,10 +14,8 @@
 - 🚀 I decided to build my own test automation builder interface using React, Node.js and Cypress: [GVtesting](https://github.com/DevCelestino/GVtesting)
 
 ### Most Important Projects
-- 👨‍💻 [Snippety] - productivity application for iOS and macOS to manage snippets
-- 🏭 [Smog Poland] - air pollution tracking application for iOS and Android
-- 🛠️ [xcodebuild.nvim] - open source Neovim plugin to develop iOS and macOS applications
-- 📖 [gabrielcelestino.com] - personal blog
+- 👨‍💻 [gabrielcelestino.com](https://gabrielcelestino.com) - personal blog webpage
+- 🛠️ [GVtesting](https://github.com/DevCelestino/GVtesting) - open source test automation builder interface to develop tests in Cypress
 
 ## What I'm Doing
 
