@@ -17,7 +17,7 @@
 
 ## Most Important Projects
 
-- 👨‍💻 [gabrielcelestino.com](https://gabrielcelestino.com) - personal blog webpage
+- 👨‍💻 [gabrielcelestino.com](https://gabrielcelestino.com) - personal webpage
 - 🛠️ [GVtesting](https://github.com/DevCelestino/GVtesting) - open source test automation builder interface to develop tests in Cypress
 
 ## What I'm Doing
