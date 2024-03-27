@@ -17,13 +17,13 @@
       </style>
 
       <div class="statsImgs">
-        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCelestino&theme=ayu_mirage" /></a>
-        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevCelestino&theme=ayu_mirage" /></a>
+        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCelestino&amp;theme=ayu_mirage" /></a>
+        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevCelestino&amp;theme=ayu_mirage" /></a>
       </div>
-      <a href="#"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcelestino&theme=ayu_mirage" /></a>
+      <a href="#"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcelestino&amp;theme=ayu_mirage" /></a>
       <div class="statsImgs">
-        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCelestino&theme=ayu_mirage" /></a>
-        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevCelestino&theme=ayu_mirage&utcOffset=8" /></a>
+        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCelestino&amp;theme=ayu_mirage" /></a>
+        <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevCelestino&amp;theme=ayu_mirage&amp;utcOffset=8" /></a>
       </div>
     </div>
   </foreignObject>
