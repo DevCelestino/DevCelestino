@@ -1,5 +1,3 @@
-## Introduction
-
 <img src="./Card.gif">
 
 <div align="center">
