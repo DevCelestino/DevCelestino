@@ -1,13 +1,15 @@
 ## Introduction
 
-<a href="https://react.dev"><img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react&logoColor=61DAFB" /></a>
-<a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=282a36&logo=nodedotjs&logoColor=339933" /></a>
-<a href="https://www.cypress.io"><img src="https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&color=282a36&logo=cypress&logoColor=69D3A7" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&color=282a36&logo=csharp&logoColor=512BD4" /></a>
-<a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&color=282a36&logo=selenium&logoColor=43B02A" /></a>
-<a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/-Azure%20DevOps-05122A?style=for-the-badge&color=282a36&logo=azuredevops&logoColor=0078D7" /></a>
-
 <img src="./Card.gif">
+
+<div align="center">
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=282a36&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=282a36&logo=nodedotjs&logoColor=339933" /></a>
+  <a href="https://www.cypress.io"><img src="https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&color=282a36&logo=cypress&logoColor=69D3A7" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&color=282a36&logo=csharp&logoColor=512BD4" /></a>
+  <a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&color=282a36&logo=selenium&logoColor=43B02A" /></a>
+  <a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/-Azure%20DevOps-05122A?style=for-the-badge&color=282a36&logo=azuredevops&logoColor=0078D7" /></a>
+</div>
 
 ## About Me
 
@@ -41,13 +43,13 @@
 ## My Stats:
 
 <div>
-<a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCelestino&theme=ayu_mirage" /></a>
-<a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevCelestino&theme=ayu_mirage" /></a>
+  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevCelestino&theme=ayu_mirage" /></a>
+  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevCelestino&theme=ayu_mirage" /></a>
 </div>
 <a href="#"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcelestino&theme=ayu_mirage" /></a>
 <div>
-<a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCelestino&theme=ayu_mirage" /></a>
-<a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevCelestino&theme=ayu_mirage&utcOffset=8" /></a>
+  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevCelestino&theme=ayu_mirage" /></a>
+  <a href="#"><img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevCelestino&theme=ayu_mirage&utcOffset=8" /></a>
 </div>
 
 ###### *data only from public repos*
