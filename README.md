@@ -7,13 +7,14 @@
 <a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/-Selenium-05122A?style=for-the-badge&color=282a36&logo=selenium&logoColor=43B02A" /></a>
 <a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/-Azure%20DevOps-05122A?style=for-the-badge&color=282a36&logo=azuredevops&logoColor=0078D7" /></a>
 
-### About Me
+## About Me
 
 - 🤓 I've recently learned Cypress and I'm trying to apply this knowledge in a new project to challenge myself
 - 🔥 I’m trying to figure out how to extend my React and Node.js skills to maximum
 - 🚀 I decided to build my own test automation builder interface using React, Node.js and Cypress: [GVtesting](https://github.com/DevCelestino/GVtesting)
 
-### Most Important Projects
+## Most Important Projects
+
 - 👨‍💻 [gabrielcelestino.com](https://gabrielcelestino.com) - personal blog webpage
 - 🛠️ [GVtesting](https://github.com/DevCelestino/GVtesting) - open source test automation builder interface to develop tests in Cypress
 
@@ -30,16 +31,8 @@
 ## My Stats:
 
 <a href="#"><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=devcelestino&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" /></a>
-
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcelestino&layout=compact&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" /></a>
-
 <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devcelestino&theme=dracula" /></a>
-
 <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devcelestino&theme=dracula&utcOffset=1" /></a>
 
 ###### *data only from public repos*
-
-[snippety]: https://snippety.app
-[Smog Poland]: https://smog-polska.pl
-[wojciechkulik.pl]: https://wojciechkulik.pl
-[xcodebuild.nvim]: https://github.com/wojciech-kulik/xcodebuild.nvim
