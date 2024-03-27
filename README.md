@@ -9,7 +9,7 @@
   <a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/-Azure%20DevOps-05122A?style=for-the-badge&color=282a36&logo=azuredevops&logoColor=0078D7" /></a>
 </div>
 
-<p align="center"><img src="waves.svg" alt="Waves" /></p>
+<p align="center"><a href="#"><img src="waves.svg" alt="Waves" /></a></p>
 
 ## About Me  <a href="#"><img width="30px" src="https://raw.githubusercontent.com/DevCelestino/DevCelestino/main/hand-shake.svg"></a>
 
