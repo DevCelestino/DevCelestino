@@ -17,12 +17,12 @@ svg {
 #wave2 {
   animation-duration:6s;
   animation-direction: reverse;
-  fill: #61DAFB;
+  fill: #339933;
 }
 
 #wave3 {
   animation-duration: 3s;
-  fill: #339933;
+  fill: #69D3A7;
   opacity:.6;
 }
 
