@@ -17,6 +17,9 @@
           animation: hi 1.5s linear -0.5s infinite;
           display: inline-block;
           transform-origin: 70% 70%;
+          position: relative;
+          right: -3px;
+          bottom: -5px;
         }
 
         @media (prefers-reduced-motion) {
