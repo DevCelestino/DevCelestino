@@ -24,9 +24,17 @@
 - 🌱 Learning more about Web Development and DevOps
 - 📫 How to contact me: gabriel@diascelestino.com
 
-## Languages and Tools
+## Languages
 
-<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,js,ts,cs,html,css,cypress,gherkin,selenium,visualstudio,vscode,github,git,azure"> </a> </p>
+<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,gherkin"> </a> </p>
+
+## Frameworks
+
+<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=react,tailwind,materialui,nodejs,nextjs,express,prisma,cypress,selenium,jest"> </a> </p>
+
+## Tools
+
+<p align="left"> <a href="https://github.com/DevCelestino"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,git,github,azure,figma,postman,npm,unity"> </a> </p>
 
 ## My Stats:
 
