@@ -13,7 +13,7 @@
 
 - 🤓 I've recently learned Cypress and I'm trying to apply this knowledge in a new project to challenge myself
 - 🔥 I’m trying to figure out how to extend my React and Node.js skills to maximum
-- 🚀 I decided to build my own test automation builder interface using React, Node.js and Cypress: [GVtesting](https://github.com/DevCelestino/GVtesting)
+- 🚀 I decided to develop my own test automation builder interface using React, Node.js and Cypress: [GVtesting](https://github.com/DevCelestino/GVtesting)
 
 ## Most Important Projects
 
