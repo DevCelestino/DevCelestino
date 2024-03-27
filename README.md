@@ -9,7 +9,7 @@
   <a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/-Azure%20DevOps-05122A?style=for-the-badge&color=282a36&logo=azuredevops&logoColor=0078D7" /></a>
 </div>
 
-## About Me <img src="./animated.svg">
+## About Me <img src="animated.svg">
 
 - 🤓 I've recently learned Cypress and I'm trying to apply this knowledge in a new project to challenge myself
 - 🔥 I’m trying to figure out how to extend my React and Node.js skills to maximum
